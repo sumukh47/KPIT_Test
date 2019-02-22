@@ -2,5 +2,6 @@
 int main()
 {
     printf("Hello KPIT!");
+    printf("Second commit!");
     return 0;
 }
